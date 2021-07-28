@@ -1,0 +1,22 @@
+/* ------------
+    colors 
+--------------- */
+:root{
+    --color-light-orange: #FFF9F4;
+    --color-orange: #FA804C;
+    --color-dark-blue: #363958;
+    --btn-color: #3D4FF3;
+    --btn-color-2: #3543BC;
+}
+.header-bg-color{
+    background-color: var(--color-light-orange);
+}
+.orange-color{
+    color: var(--color-orange);
+}
+.blue-color{
+    color: var(--color-dark-blue);
+}
+.btn-blue{
+    background-image: linear-gradient(180deg, #3D4FF3, #3543BC);
+}
